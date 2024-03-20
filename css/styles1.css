@@ -1,0 +1,27 @@
+/******************** Universal styles ********************/
+* {
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica;
+    color: white;
+}
+.flexed {
+    display: flex;
+}
+
+/******************** Header styles ********************/
+header {
+    position: sticky;
+}
+
+/******************** Main styles ********************/
+
+/********** Card styles **********/
+
+
+/******************** Footer styles ********************/
+footer {
+    position: sticky;
+    background-color: rgb(83, 83, 83);
+}
